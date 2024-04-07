@@ -8,6 +8,8 @@ Welcome to the Scholarcrafter community page!
 
 **Donation**: Scholarcrafter is run for free as a side-passion project. Want to keep the lights on? Consider a little donation:
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/webstorms)
+
 ETH: 0x090a20844d5c21238064A4A34856132029dF5d32
 
 SOL: 5deenV7mRmbM2Pcaegn7etkyMaeHRdkiiEE6yocgQgQJ
